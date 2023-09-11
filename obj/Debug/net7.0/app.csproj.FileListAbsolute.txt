@@ -1,0 +1,15 @@
+/home/maro-pc/app/app/bin/Debug/net7.0/app
+/home/maro-pc/app/app/bin/Debug/net7.0/app.deps.json
+/home/maro-pc/app/app/bin/Debug/net7.0/app.runtimeconfig.json
+/home/maro-pc/app/app/bin/Debug/net7.0/app.dll
+/home/maro-pc/app/app/bin/Debug/net7.0/app.pdb
+/home/maro-pc/app/app/obj/Debug/net7.0/app.csproj.AssemblyReference.cache
+/home/maro-pc/app/app/obj/Debug/net7.0/app.GeneratedMSBuildEditorConfig.editorconfig
+/home/maro-pc/app/app/obj/Debug/net7.0/app.AssemblyInfoInputs.cache
+/home/maro-pc/app/app/obj/Debug/net7.0/app.AssemblyInfo.cs
+/home/maro-pc/app/app/obj/Debug/net7.0/app.csproj.CoreCompileInputs.cache
+/home/maro-pc/app/app/obj/Debug/net7.0/app.dll
+/home/maro-pc/app/app/obj/Debug/net7.0/refint/app.dll
+/home/maro-pc/app/app/obj/Debug/net7.0/app.pdb
+/home/maro-pc/app/app/obj/Debug/net7.0/app.genruntimeconfig.cache
+/home/maro-pc/app/app/obj/Debug/net7.0/ref/app.dll

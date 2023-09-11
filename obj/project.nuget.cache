@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "G4BCF2+xKw9pHvqxVM0XeiefDglfb52QH6aMTQdW0amV6w9WkoVV7KoR09AxZ5d9lXwiynGTYJ03NaSnLgGVkQ==",
+  "success": true,
+  "projectFilePath": "/home/maro-pc/app/app/app.csproj",
+  "expectedPackageFiles": [
+    "/home/maro-pc/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.10/microsoft.aspnetcore.app.ref.7.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}
